@@ -1,0 +1,6 @@
+#Eclipse config
+.project
+.classpath
+
+#Target
+target/
